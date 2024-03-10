@@ -6,6 +6,7 @@ import NewGoal from './components/NewGoal/NewGoal';
 
 import './App.css'
 
+// App
 const App = () => {
 
     // Initial state for the goals object
